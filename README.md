@@ -16,7 +16,7 @@ end tell
 
 You have to set it with your hotkeys combo (mine is ⇧+⌘+X).
 
-I kept the keyword as `caffeine` cause this workflow is a natural adaptation from my previous usage of Caffeine[^1], but you can change it with the one you prefer.
+I kept the keyword as `caffeine` cause this workflow is a natural adaptation from my previous usage of Caffeine, but you can change it with the one you prefer.
 
 ## [Battery Time](https://github.com/AlessandroAime/AlfredWorkflows/raw/master/Battery%20Time.alfredworkflow)
 
@@ -30,7 +30,7 @@ I took advance of the Large Type option available in Alfred, which I believe is 
 
 ![Battery Time Animation](https://alessandroaime.github.io/images/battery-animation.gif)
 
-Although the `time` keyword[^2] , I also included an ⇧+⌘+B hotkeys feature to make the call even faster.
+Although the `time` keyword, I also included an ⇧+⌘+B hotkeys feature to make the call even faster.
 
 ## [Bluetooth Switcher](https://github.com/AlessandroAime/AlfredWorkflows/raw/master/Bluetooth%20Switcher.alfredworkflow)
 
@@ -154,8 +154,3 @@ fi
 ```
 
 The keyword is `wifi`, but you can change it with the one you prefer.
-
----
-
-[^1]: It hasn't been updated in years, and has been recently removed from the Mac App Store. Altough, Caffine has been a multiplatform pioneristic app for almost a decade.
-[^2]: Thanks to the Alfred Knowledge feature, it has learned through time that whenever I press `T` in the search box it is highly probable to launch this workflow.
