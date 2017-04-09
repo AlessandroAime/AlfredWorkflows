@@ -2,7 +2,7 @@
 
 A collection of personal [Alfred 3](https://www.alfredapp.com/) workflows that help me in my daily life and may help you too.
 
-## [Amphetamine Switcher](https://github.com/AlessandroAime/AlfredWorkflows/raw/master/AmphetamineSwitcher.alfredworkflow)
+## [Amphetamine Switcher](https://github.com/AlessandroAime/AlfredWorkflows/raw/master/Amphetamine%20Switcher.alfredworkflow)
 
 *Requires [Amphetamine](https://itunes.apple.com/us/app/amphetamine/id937984704?mt=12), a little free app that lives in your menu bar. It gives you a graphical user interface for the caffeinate command line utility built into every Mac. With Amphetamine, you can easily and quickly override your energy saver settings and keep your Mac awake, without even lifting your fingers from the keyboard.*
 
@@ -18,7 +18,7 @@ You have to set it with your hotkeys combo (mine is ⇧+⌘+X).
 
 I kept the keyword as `caffeine` cause this workflow is a natural adaptation from my previous usage of Caffeine[^1], but you can change it with the one you prefer.
 
-## [Battery Time](https://github.com/AlessandroAime/AlfredWorkflows/raw/master/BatteryTime.alfredworkflow)
+## [Battery Time](https://github.com/AlessandroAime/AlfredWorkflows/raw/master/Battery%20Time.alfredworkflow)
 
 *Since the macOS Sierra 10.12.2 update, we're no longer able to get the battery life time from the menubar. Altough it's still accessible in the Activity Monitor app, I find this solution tricky and no enough time-efficient.*
 
@@ -32,7 +32,7 @@ I took advance of the Large Type option available in Alfred, which I believe is 
 
 Although the `time` keyword[^2] , I also included an ⇧+⌘+B hotkeys feature to make the call even faster.
 
-## [Bluetooth Switcher](https://github.com/AlessandroAime/AlfredWorkflows/raw/master/BluetoothSwitcher.alfredworkflow)
+## [Bluetooth Switcher](https://github.com/AlessandroAime/AlfredWorkflows/raw/master/Bluetooth%20Switcher.alfredworkflow)
 
 Part of my list of useful switchers. This one works with the `blueutil status` command utility, and turns ON or OFF the bluetooth based on its current status.
 
@@ -78,7 +78,7 @@ The behaviour of this workflow is really simple: you call it with `timer` plus t
 
 This workflow has been designed for scenarios where I'm really into something that I forget to take breaks. That's why I kept it really simple, so you won't be able too see how much time is missing to the end.
 
-## [Files Visibility](https://github.com/AlessandroAime/AlfredWorkflows/raw/master/FilesVisibility.alfredworkflow)
+## [Files Visibility](https://github.com/AlessandroAime/AlfredWorkflows/raw/master/Files%20Visibility.alfredworkflow)
 
 This workflow helps you change the files visibility in a click, wheter you need to `show` hidden files, or `hide` them.
 
@@ -92,7 +92,7 @@ defaults write com.apple.finder AppleShowAllFiles OFF
 killall Finder
 ```
 
-## [Force Empty Trash](https://github.com/AlessandroAime/AlfredWorkflows/raw/master/ForceEmptyTrash.alfredworkflow)
+## [Force Empty Trash](https://github.com/AlessandroAime/AlfredWorkflows/raw/master/Force%20Empty%20Trash.alfredworkflow)
 
 When your Trash is moody and some files are stuck in it, you can force it to get rid of those junkies by typing `force` (or whatsoever word you think it is more appropriate).
 
@@ -100,7 +100,7 @@ When your Trash is moody and some files are stuck in it, you can force it to get
 rm -rf ~/.Trash/*
 ```
 
-## [Kill Application](https://github.com/AlessandroAime/AlfredWorkflows/raw/master/KillApplication.alfredworkflow)
+## [Kill Application](https://github.com/AlessandroAime/AlfredWorkflows/raw/master/Kill%20Application.alfredworkflow)
 
 Sometimes can happen that an app stops working. This workflow is the simplest incarnation of the `killall` command utility: just call it via `kill` plus the app/process you want to kill, and let your computer do the dirty job.
 
@@ -108,7 +108,7 @@ Sometimes can happen that an app stops working. This workflow is the simplest in
 killall {query}
 ```
 
-## [RAM Disk](https://github.com/AlessandroAime/AlfredWorkflows/raw/master/RAMDisk.alfredworkflow)
+## [RAM Disk](https://github.com/AlessandroAime/AlfredWorkflows/raw/master/RAM%20Disk.alfredworkflow)
 
 *This is a feature I never really used, but I felt the need to build a workflow for too.*
 
@@ -120,7 +120,7 @@ diskutil erasevolume HFS+ 'RAM Disk' `hdiutil attach -nomount ram://2097152`
 
 The heyword is `ram`, but you can change it with the one you prefer.
 
-## [Screen Recorder](https://github.com/AlessandroAime/AlfredWorkflows/raw/master/ScreenRecorder.alfredworkflow)
+## [Screen Recorder](https://github.com/AlessandroAime/AlfredWorkflows/raw/master/Screen%20Recorder.alfredworkflow)
 
 *Even tough QuickTime Player is hardly used on a daily basis, it still have unique built-in features such as recording an iPhone/iPad screen while it's attached via USB or simply recording the Mac screen, and so forth.*
 
@@ -138,7 +138,7 @@ end tell
 
 The keyword is `record`, but you can change it with the one you prefer.
 
-## [WiFi Switcher](https://github.com/AlessandroAime/AlfredWorkflows/raw/master/WiFiSwitcher.alfredworkflow)
+## [WiFi Switcher](https://github.com/AlessandroAime/AlfredWorkflows/raw/master/WiFi%20Switcher.alfredworkflow)
 
 Last but not least, the WiFi switcher. It works with the `networksetup` command utility, and turns ON or OFF the WiFi interface based on its current status.
 
