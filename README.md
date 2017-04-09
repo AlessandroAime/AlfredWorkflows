@@ -155,7 +155,7 @@ fi
 
 The keyword is `wifi`, but you can change it with the one you prefer.
 
-
+---
 
 [^1]: It hasn't been updated in years, and has been recently removed from the Mac App Store. Altough, Caffine has been a multiplatform pioneristic app for almost a decade.
 [^2]: Thanks to the Alfred Knowledge feature, it has learned through time that whenever I press `T` in the search box it is highly probable to launch this workflow.
