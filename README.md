@@ -22,7 +22,7 @@ I kept the keyword as `caffeine` cause this workflow is a natural adaptation fro
 
 *Since the macOS Sierra 10.12.2 update, we're no longer able to get the battery life time from the menubar. Altough it's still accessible in the Activity Monitor app, I find this solution tricky and no enough time-efficient.*
 
-*Probably my best Alfred workflow as today (2017/04/09).*
+*Probably my best (and time-saving) Alfred workflow ever.*
 
 This workflow helps you to see instantly the remainig battery life time. It is based on the `pmset -g batt`command, and can tell you wether the battery is charging or not, the remaining charging/discharging time and more.
 
