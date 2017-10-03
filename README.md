@@ -1,5 +1,7 @@
 # Alfred Workflows
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 A collection of personal [Alfred 3](https://www.alfredapp.com/) workflows that help me in my daily life and may help you too.
 
 ## [Amphetamine Switcher](https://github.com/AlessandroAime/AlfredWorkflows/raw/master/AmphetamineSwitcher.alfredworkflow)
