@@ -4,6 +4,13 @@
 
 A collection of personal [Alfred 3](https://www.alfredapp.com/) workflows that help me in my daily life and may help you as well.
 
+*The following workflows have been added recently but I haven't fount the time yet to document them:*
+  * *[AirPods Connector](https://github.com/AlessandroAime/AlfredWorkflows/raw/master/AirPodsConnector.alfredworkflow)*
+  * *[Airplane Mode](https://github.com/AlessandroAime/AlfredWorkflows/raw/master/AirplaneMode.alfredworkflow)*
+  * *[Brightness Selector](https://github.com/AlessandroAime/AlfredWorkflows/raw/master/BrightnessSelector.alfredworkflow)*
+  * *[Capture iOS Simulator](https://github.com/AlessandroAime/AlfredWorkflows/raw/master/CaptureSimulator.alfredworkflow)*
+  * *[UE Boom Connector](https://github.com/AlessandroAime/AlfredWorkflows/raw/master/UEBoomConnector.alfredworkflow)*
+
 ## [Amphetamine Switcher](https://github.com/AlessandroAime/AlfredWorkflows/raw/master/AmphetamineSwitcher.alfredworkflow)
 
 *Requires [Amphetamine](https://itunes.apple.com/us/app/amphetamine/id937984704?mt=12), a little free app that lives in your menu bar. It gives you a graphical user interface for the caffeinate command line utility built into every Mac. With Amphetamine, you can easily and quickly override your energy saver settings and keep your Mac awake, without even lifting your fingers from the keyboard.*
