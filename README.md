@@ -30,7 +30,7 @@ This workflow helps you to see instantly the remainig battery life time. It is b
 
 I took advance of the Large Type option available in Alfred, which I believe is an underrated feature by most people. You may read more about it in the [dedicated article](https://alessandroaime.github.io/macos-sierra-battery-time-indicator-solution/) I wrote on my blog.
 
-![Battery Time Animation](https://alessandroaime.github.io/images/battery-animation.gif)
+![Battery Time Animation](https://alessandroaime.com/images/battery-animation.gif)
 
 Although the `time` keyword, I also included an ⇧+⌘+B hotkeys feature to make the call even faster.
 
